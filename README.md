@@ -50,7 +50,7 @@ Node.js & npm: Download
 🔹 Steps to Run the Project
 1️⃣ Clone the Repository
 
-git clone https://github.com/your-username/shine-craft.git
+git clone https://github.com/dianaqwariq/shine-craft.git
 cd shine-craft
 2️⃣ Install Flutter Dependencies
 
